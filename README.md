@@ -6,7 +6,11 @@
 
 ## 프로토타입 보기
 
-`prototype/index.html` 을 브라우저로 열면 된다. 파일 하나에 화면, 사진, 스크립트가 모두 들어 있다. 글꼴만 Google Fonts 에서 불러오므로 인터넷이 연결돼 있어야 한다.
+**https://bobo33772-blip.github.io/fillmine/prototype/** (GitHub Pages)
+
+GitHub 파일 화면에서는 HTML이 코드로만 보이므로 위 주소로 연다. `main` 브랜치에 올리면 1~2분 뒤 이 주소에도 반영된다.
+
+내려받아 볼 때는 `prototype/index.html` 을 브라우저로 열면 된다. 파일 하나에 화면, 사진, 스크립트가 모두 들어 있다. 글꼴만 Google Fonts 에서 불러오므로 인터넷이 연결돼 있어야 한다.
 
 보드에는 390 × 844 크기의 폰 화면 14개가 있고, 화면마다 실제로 눌러볼 수 있다.
 
